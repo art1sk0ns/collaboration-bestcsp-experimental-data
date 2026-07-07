@@ -1,7 +1,7 @@
-Phenylpiracetam Form B
+Phenylpiracetam Form B,,,,,,,
 Identifier,	Property,		  Value (kJ/mol), Std, 	N,       Name,	              Comment,            Reference 
 1         , Enthalpy of fusion,    24.42,     0.62,        11,     Kons,      20 K/min(TA DSC25),  Artis Kons e-mail 3 Sept 2024,         
 2         ,  Enthalpy of fusion,   22.4    ,  0.3,        ,   Rekis_17  ,   ,                         10.1021/acs.cgd.6b0186
-3       , Enthalpy of fusion, 25.37, 0.06,5, Hermínio Diogo ,1 K/min (TA 2920MDSC), Manuel Minas da Piedades email 15/11/2024
-4        , Enthalpy of fusion, 25.77, 0.18, 5, Ricardo G. Simões, 1 K/min (Perkin Elmer DSC 7), Manuel Minas da Piedades email 15/11/2024
+3       , Enthalpy of fusion, 25.37, 0.06,5, HermÃnio Diogo ,1 K/min (TA 2920MDSC), Manuel Minas da Piedades email 15/11/2024
+4        , Enthalpy of fusion, 25.77, 0.18, 5, Ricardo G. SimÃµes, 1 K/min (Perkin Elmer DSC 7), Manuel Minas da Piedades email 15/11/2024
 5        , Enthalpy of fusion,   24.90,  0.35 ,  3,  Stejfa Vojtech,   5 K/min (TA DSC Discovery 2500),  Stejfa Vojtech email 12/03/2025
